@@ -73,9 +73,6 @@ body {
 .reveal h4,
 .reveal h5,
 .reveal h6 {
-	-webkit-hyphens: auto;
-	   -moz-hyphens: auto;
-	        hyphens: auto;
 
 	word-wrap: break-word;
 	line-height: 1;
@@ -560,7 +557,7 @@ body {
 	display: none;
 	position: absolute;
 	width: 100%;
-	padding: 20px 0px;
+	padding: 0px 0;
 
 	z-index: 10;
 	line-height: 1.2em;
